@@ -3,6 +3,8 @@
 bool First_start = true;
 void fisrt_start()
 {
+	// REWORKED BY ATOMIX/SKYLERISADEV
+	// ALSO ADDED MORE IN SELF
 	using namespace Atomic;
 	
 	StreamTexture = "Atomic";
